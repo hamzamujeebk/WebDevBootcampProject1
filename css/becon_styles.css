@@ -5,12 +5,12 @@ h1 {
   color: red;
   font-size: 80px;
 }
-/*
-img{
-  background-color: red;
+
+img:hover{
+  background-color: gold;
 }
 
-*/
+
 /***********class selectore*************/
 
 
@@ -20,4 +20,12 @@ img{
 
 .broccoli{
    background-color: green;
+}
+.circular{
+  border-radius: 100%;
+}
+
+/***********id selectore*************/
+#heading{
+  color: blue;
 }
