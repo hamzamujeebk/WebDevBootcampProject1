@@ -1,8 +1,23 @@
+/*********tag selector**************/
+
+
 h1 {
   color: red;
   font-size: 80px;
 }
-
+/*
 img{
   background-color: red;
+}
+
+*/
+/***********class selectore*************/
+
+
+.becon{
+  background-color: red;
+}
+
+.broccoli{
+   background-color: green;
 }
